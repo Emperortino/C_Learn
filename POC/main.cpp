@@ -6,7 +6,7 @@
 int main()
 {
     char name[8];
-    printf("Your name:");
+    printf("你的名字:");
     gets(name);
     printf("%s!",name);
     return 0;
