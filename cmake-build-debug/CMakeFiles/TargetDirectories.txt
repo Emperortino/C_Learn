@@ -1,0 +1,7 @@
+D:/App/Code/C++/C++_Work/C_Learn/cmake-build-debug/CMakeFiles/C_Learn.dir
+D:/App/Code/C++/C++_Work/C_Learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/App/Code/C++/C++_Work/C_Learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/App/Code/C++/C++_Work/C_Learn/cmake-build-debug/POC/CMakeFiles/A.dir
+D:/App/Code/C++/C++_Work/C_Learn/cmake-build-debug/POC/CMakeFiles/rebuild_cache.dir
+D:/App/Code/C++/C++_Work/C_Learn/cmake-build-debug/POC/CMakeFiles/B.dir
+D:/App/Code/C++/C++_Work/C_Learn/cmake-build-debug/POC/CMakeFiles/edit_cache.dir
